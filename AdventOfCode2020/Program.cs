@@ -51,6 +51,7 @@ namespace AdventOfCode2020
 
             Console.WriteLine("Day 10 Answers");
             Day10.Day10Challenge.Day10Solution();
+            Day10.Day10Challenge.Day10SolutionPt2();
 
         }
 
