@@ -49,9 +49,12 @@ namespace AdventOfCode2020
             //Console.WriteLine("Day 9 Answers:");
             //Day9.Day9Challenge.Day9Solution();
 
-            Console.WriteLine("Day 10 Answers");
-            Day10.Day10Challenge.Day10Solution();
-            Day10.Day10Challenge.Day10SolutionPt2();
+            //Console.WriteLine("Day 10 Answers");
+            //Day10.Day10Challenge.Day10Solution();
+            //Day10.Day10Challenge.Day10SolutionPt2();
+
+            Console.WriteLine("Day 11 Answers");
+            Day11.Day11Challenge.Day11Solution();
 
         }
 

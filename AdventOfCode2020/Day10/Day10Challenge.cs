@@ -61,7 +61,6 @@ namespace AdventOfCode2020.Day10
             string[] values = ParseChallengeData();
             var numbers = values.Select(x => Int32.Parse(x)).Union(new int[] { 0 }).OrderBy(x => x).ToList();
            
-
             int skippable = 0;
             long result = 1;
             int num;
