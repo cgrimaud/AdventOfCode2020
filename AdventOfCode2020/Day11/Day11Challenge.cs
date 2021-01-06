@@ -192,7 +192,6 @@ namespace AdventOfCode2020.Day11
             return charDictionary;
         }
 
-
         public static char GetNextNorthWest(List<string> layout, int[] currentLocation)
         {
             var cRow = currentLocation[0];
