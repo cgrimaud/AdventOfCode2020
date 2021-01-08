@@ -57,7 +57,8 @@ namespace AdventOfCode2020
             //Day11.Day11Challenge.Day11Solution();
 
             Console.WriteLine("Day 12 Answers");
-            Day12.Day12Challenge.Day12Solution();
+            //Day12.Day12Challenge.Day12SolutionPt1();
+            Day12.Day12Challenge.Day12SolutionPt2();
 
         }
 
