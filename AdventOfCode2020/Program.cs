@@ -56,9 +56,12 @@ namespace AdventOfCode2020
             //Console.WriteLine("Day 11 Answers");
             //Day11.Day11Challenge.Day11Solution();
 
-            Console.WriteLine("Day 12 Answers");
+            //Console.WriteLine("Day 12 Answers");
             //Day12.Day12Challenge.Day12SolutionPt1();
-            Day12.Day12Challenge.Day12SolutionPt2();
+            //Day12.Day12Challenge.Day12SolutionPt2();
+
+            Console.WriteLine("Day 13 Answers");
+            Day13.Day13Challenge.Day13Solution();
 
         }
 

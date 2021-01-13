@@ -135,17 +135,9 @@ namespace AdventOfCode2020.Day12
 
             };
 
-
-
-            int boatEastWest = 0;
-            int boatNorthSouth = 0;
-            
-
-            int count = 0;
-
             foreach (var action in actions)
             {
-                count++;
+
                 int wayEastWest = wayPoint["E"] - wayPoint["W"];
                 int wayNorthSouth = wayPoint["N"] - wayPoint["S"];
 
